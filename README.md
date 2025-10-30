@@ -40,7 +40,7 @@ Aplicativo mobile com **sons, imagens e sistema de pontuação**, todos armazena
 ### 🌐 Onde me encontrar
 <p align="center">
   <a href="mailto:gustavocheida10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https:www.linkedin.com/in/gucheida"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gucheida"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="[https://github.com/Cheida]"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
