@@ -62,6 +62,6 @@ Busco sempre aprimorar meus projetos e aprender algo novo para me tornar um prof
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cheida&show_icons=true&theme=react&hide_border=true" />
 </p>
 
